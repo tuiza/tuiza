@@ -3,6 +3,9 @@
 <h3 align="center">I'm a Front-End Web/Mobile Developer, doing a degree in Biomedical Engineering at UFPA </h3>
 <h3 align="center" >I’m currently working on development of technological solutions to assist people with disabilities </h3>
 <h3 align="center" >Since 2020, i'm dedicated to the study of web development and learning new technologies</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene)](https://github.com/luizamarlene/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 
