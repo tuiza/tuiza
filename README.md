@@ -3,11 +3,6 @@
 <h3 align="center">I'm a Front-End Web/Mobile Developer, doing a degree in Biomedical Engineering at UFPA </h3>
 <h3 align="center" >I’m currently working on development of technological solutions to assist people with disabilities </h3>
 <h3 align="center" >Since 2020, i'm dedicated to the study of web development and learning new technologies</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene)](https://github.com/luizamarlene/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
- 
 
 <a href="https://www.linkedin.com/in/luizamarlene">
 <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a>
@@ -23,6 +18,9 @@
 <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="60" target="_blank">
 <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100" target="_blank">
 <img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="55" target="_blank">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&theme=radical&layout=compact)](https://github.com/luizamarlene/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamarlene&hide=issues&theme=radical)
+)](https://github.com/luizamarlene/github-readme-stats)
 
 
 
