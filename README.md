@@ -19,16 +19,5 @@
 <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100" target="_blank">
 <img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="55" target="_blank">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&theme=radical&layout=compact)](https://github.com/luizamarlene/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamarlene&hide=issues&theme=radical)
-)](https://github.com/luizamarlene/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&theme=radical&layout=compact)](https://github.com/luizamarlene/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=luizamarlene&hide=issues&theme=radical)](https://github.com/luizamarlene/github-readme-stats)
