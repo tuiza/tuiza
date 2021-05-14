@@ -1,5 +1,5 @@
 # Hi, I'm Luiza 👩‍💻.
-<a href="www.linkedin.com/in/luizamarlene">
+<a href="https://www.linkedin.com/in/luizamarlene">
 <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a>
 <a href="https://www.instagram.com/tuiza_99/">
 <img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"></a>
