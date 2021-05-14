@@ -6,13 +6,13 @@
 <a href="https://www.instagram.com/tuiza_99/">
 <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"></a>
 
-@@I'm a biomedical engineer at UFPA@@
+I'm a biomedical engineer at UFPA
 + Living in Belém, Brazil 🇧🇷. 🇧🇷
 - 22 years old <img alt="" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="300">
 - I’m currently working on development of technological solutions to assist people with disabilities and looking for new challegs and code  
 
 
-# 💻 Tecnologias
+# 💻 Technologies
 <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70"> <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60">
 <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100">
 <img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="38">
