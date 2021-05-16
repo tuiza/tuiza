@@ -1,9 +1,9 @@
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="300">
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="320">
 <div align="left">
-<h1 align="center">Hi 👋, I'm Luiza   👩‍💻.</h1>
+<h1 align="center" >Hi 👋, I'm Luiza   👩‍💻.</h1>
 <h3 align="center">I'm a Front-End Web/Mobile Developer, doing a degree in Biomedical Engineering at UFPA </h3>
 <h3 align="center" >I’m currently working on development of technological solutions to assist people with disabilities </h3>
-<h3 align="center" >Since 2020, i'm dedicated to the study of web development and learning new technologies</h3>
+<h3 align="center" flex-wrap="wrap">Since 2020, i'm dedicated to the study of web development and learning new technologies</h3>
 </div>  
 
 <a href="https://www.linkedin.com/in/luizamarlene">
