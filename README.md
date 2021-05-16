@@ -1,4 +1,4 @@
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="300">
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="400">
 <h1 align="center">Hi 👋, I'm Luiza   👩‍💻.</h1>
 <h3 align="center">I'm a Front-End Web/Mobile Developer, doing a degree in Biomedical Engineering at UFPA </h3>
 <h3 align="center" >I’m currently working on development of technological solutions to assist people with disabilities </h3>
