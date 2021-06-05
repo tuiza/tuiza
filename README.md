@@ -13,6 +13,7 @@
 <a href="https://www.instagram.com/tuiza_99/">
 <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"></a>
 
+---
 
 # 💻 Technologies & tools
 <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70" target="_blank"> <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" target="_blank">
