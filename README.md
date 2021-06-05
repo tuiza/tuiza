@@ -15,7 +15,7 @@
 
 ---
 
-# 💻 Technologies & tools
+## 💻 Technologies & tools
 <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70" target="_blank"> <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" target="_blank">
 <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" target="_blank">
 <img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="38" target="_blank">
@@ -24,6 +24,8 @@
 <img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="55" target="_blank">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&layout=compact&theme=radical)](https://github.com/luizamarlene/github-readme-stats)
-
 ![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamarlene&show_icons=true&theme=radical)
+  
+
+
 
