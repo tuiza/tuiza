@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" heigth='400px'>
 	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="320">
 	<div align="left">
 	<h1 align="center" >Oi 👋, Eu sou a Luiza   👩‍💻.</h1>
