@@ -1,9 +1,9 @@
 <div align="center" >
 	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='40%'/>
 	<div align="left" width='60%'>
-	<h1 align="center" >Oi 👋, Eu sou a Luiza 👩‍💻.</h1>
-	<h3 align="center" flex-wrap="wrap"> Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de 		aprimorar minhas habilidades de desenvolvimento web e mobile </h3>
-	<h3 align="center">Atualmente, contribuo com o desenvolvimento de tecnologias assistivas no Laboratório de Interação de Visualizão e Sistemas Inteligentes (LABVIS) na UFPA</h3>
+	<h1 align="center" >Oi 👋, Eu sou a Luiza ✨.</h1>
+	<h3 align="center" flex-wrap="wrap"> Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de 		aprimorar minhas habilidades de desenvolvimento web e mobile 👩‍💻 </h3>
+	<h3 align="center">Atualmente, contribuo com o desenvolvimento de tecnologias assistivas no Laboratório de Interação de Visualizão e Sistemas Inteligentes (LABVIS) na UFPA </h3>
 </div>
 <br>
 <div align="center">
@@ -25,8 +25,11 @@
 <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100" target="_blank">
 <img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="55" target="_blank">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&layout=compact&theme=radical)](https://github.com/luizamarlene/github-readme-stats)
+[![Top das linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&layout=compact&theme=radical)](https://github.com/luizamarlene/github-readme-stats)
 ![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamarlene&show_icons=true&theme=radical)
+	
+	
+	
   
 
 
