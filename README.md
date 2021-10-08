@@ -4,13 +4,13 @@
 <h3 align="center" flex-wrap="wrap"> Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de desenvolver minhas habilidades de desenvolvimento web e mobile </h3>
 <h3 align="center">Atualmente, trabalho no desenvolvimento de tecnologias assistivas no Laboratório de Interação de Visualizão e Sistemas Inteligentes (LABVIS) na UFPA</h3>
 <br>
-<div align="center" margin-top = 20px>
+<div align="center">
   <a href="https://www.linkedin.com/in/luizamarlene">
   <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a>
   <a href="https://www.instagram.com/tuiza_99/">
   <img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"></a>
-  <a href=mailto'luiza8.marlene@gmail.com'>
-  <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"></a>
+  <a href='mailto:luiza8.marlene@gmail.com'>
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"></a>
 </div>
   
 ---
