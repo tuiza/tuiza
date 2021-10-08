@@ -1,7 +1,7 @@
 <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width="320">
 <div align="left">
 <h1 align="center" >Oi 👋, Eu sou a Luiza   👩‍💻.</h1>
-<h3 align="center" flex-wrap="wrap"> Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de desenvolver minhas habilidades de desenvolvimento web e mobile </h3>
+<h3 align="center" flex-wrap="wrap"> Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de aprimorar minhas habilidades de desenvolvimento web e mobile </h3>
 <h3 align="center">Atualmente, trabalho no desenvolvimento de tecnologias assistivas no Laboratório de Interação de Visualizão e Sistemas Inteligentes (LABVIS) na UFPA</h3>
 <br>
 <div align="center">
