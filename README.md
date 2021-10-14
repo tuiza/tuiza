@@ -49,7 +49,7 @@
 	
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width='30' />
 
-</div
+</div>
 
 ##
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&layout=compact&theme=radical&locale=pt-br)](https://github.com/luizamarlene/github-readme-stats)
@@ -57,7 +57,7 @@
 <br></br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizamarlene&repo=filmes&theme=radical&locale=pt-br)](https://github.com/luizamarlene/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizamarlene&repo=filmes&theme=radical&locale=pt-br)](hhttps://github.com/luizamarlene/Filmes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizamarlene&repo=aluradev&theme=radical&locale=pt-br)](https://github.com/luizamarlene/github-readme-stats)
 
 
