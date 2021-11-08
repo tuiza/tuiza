@@ -57,10 +57,6 @@
 <br></br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizamarlene&repo=filmes&theme=radical&locale=pt-br)](hhttps://github.com/luizamarlene/Filmes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizamarlene&repo=aluradev&theme=radical&locale=pt-br)](https://github.com/luizamarlene/github-readme-stats)
-
-
 ![Snake animation](https://github.com/luizamarlene/luizamarlene/blob/output/github-contribution-grid-snake.svg)
 
 
