@@ -1,10 +1,11 @@
 <div align="center" >
-	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='40%'/>
-	<div align="left" width='60%'>
-		<h1 align="center" >Oi 👋, eu sou a Luiza ✨.</h1>
-		<h3 align="center" > Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de aprimorar minhas habilidades de desenvolvimento web e mobile 👩‍💻 </h3>
+	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='25%'/>
+	<div align="left" >
+		<h1 align="center" >Oi 👋, eu sou a Luiza Marlene ✨.</h1>
+		<h3 align="center" > Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de aprimorar minhas habilidades de desenvolvimento web e mobile </h3>
 		
 </div>	
+
 <br></br>
 <div align="center">
 	
@@ -15,7 +16,6 @@
   <a href='mailto:luiza8.marlene@gmail.com'>
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"//></a>
 
-.	
 		
 </div>
 </br>
