@@ -52,7 +52,7 @@
 
 ##
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarlene&layout=compact&theme=radical&locale=pt-br)](https://github.com/luizamarlene/github-readme-stats)
-![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamarlene&show_icons=true&theme=radical&count_private=true&hide=p,issues&locale=pt-br)
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamarlene&show_icons=true&theme=radical&count_private=true&hide=p&locale=pt-br)
 <br></br>
 
 
