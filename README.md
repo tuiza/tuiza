@@ -36,7 +36,6 @@
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='30' />
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width='30' />
 
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='30' />
