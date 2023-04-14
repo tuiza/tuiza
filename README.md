@@ -26,23 +26,19 @@
 ## 💻 Tecnologias e ferramentas
 	
 <div align='center'>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='30' />
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width='30' />
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='30' />
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width='30' />
+
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='30' />
 
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width='30' />
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width='30' />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width='30' />
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width='30' />
 	
 
 </div>
