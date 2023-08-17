@@ -1,7 +1,7 @@
 <div align="center" >
 	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='25%'/>
 	<div align="left" >
-		<h1 align="center" >Welcome to my GitHub repository! ✨</h1>
+		<h1 align="center" >Welcome to my repository! ✨</h1>
 		<h3 align="center" > 
 This is a dedicated space for storing FullStack and Mobile projects.
 			<br></br>
