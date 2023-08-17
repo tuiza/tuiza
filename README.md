@@ -1,5 +1,5 @@
 <div align="center" >
-	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='25%'/>
+	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='35%'/>
 	<div align="left" >
 		<h1 align="center" >Welcome to my repository! ✨</h1>
 		<h3 align="center" > 
