@@ -18,9 +18,9 @@ This is a dedicated space for storing FullStack and Mobile projects.
 	
   <a href="https://www.linkedin.com/in/luizamarlene">
   <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"/></a>
-  <a href="https://www.instagram.com/tuiza_99/">
+  <a href="https://www.instagram.com/tuiza.dev/">
   <img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"/></a>
-  <a href='mailto:luiza8.marlene@gmail.com'>
+  <a href='mailto:tuiza.dev@gmail.com'>
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70"//></a>
 
 		
