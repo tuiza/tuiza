@@ -1,8 +1,15 @@
 <div align="center" >
 	<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621019343670.png" width='25%'/>
 	<div align="left" >
-		<h1 align="center" >Oi 👋, eu sou a Luiza Marlene ✨.</h1>
-		<h3 align="center" > Este é um repositório com os meus trabalhos pessoais desenvolvidos com o intuito de aprimorar minhas habilidades de Desenvolvimento Fullstack </h3>
+		<h1 align="center" >Welcome to my GitHub repository! ✨</h1>
+		<h3 align="center" > 
+This is a dedicated space for storing FullStack and Mobile projects.
+			<br></br>
+	Browse through the available projects and dive into the journey of building versatile solutions that encompass both web and mobile platforms. 
+		</h3>
+  <h3 align="center" > 
+	   Feel free to explore, contribute, and share knowledge 😊
+  </h3>
 		
 </div>	
 
