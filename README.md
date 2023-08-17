@@ -30,7 +30,7 @@ This is a dedicated space for storing FullStack and Mobile projects.
 ---  
 
 
-## 💻 Tecnologias e ferramentas
+## 💻 Technologies and Tools
 	
 <div align='center'>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
