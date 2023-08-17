@@ -60,8 +60,8 @@ This is a dedicated space for storing FullStack and Mobile projects.
 </div>
 
 ##
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuiza&layout=compact&theme=radical&locale=pt-br)](https://github.com/luizamarlene/github-readme-stats)
-![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuiza&show_icons=true&theme=radical&count_private=true&hide=p&locale=pt-br)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuiza&layout=compact&theme=radical&locale=en)](https://github.com/luizamarlene/github-readme-stats)
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuiza&show_icons=true&theme=radical&count_private=true&hide=p&locale=en)
 <br></br>
 
 
