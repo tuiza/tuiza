@@ -30,6 +30,8 @@ This is a dedicated space for storing FullStack and Mobile projects.
 ---  
 
 
+
+
 ## 💻 Technologies and Tools
 	
 <div align='center'>
@@ -58,6 +60,8 @@ This is a dedicated space for storing FullStack and Mobile projects.
 	
 
 </div>
+
+[![An image of @tuiza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuiza)](https://holopin.io/@tuiza)
 
 ##
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuiza&layout=compact&theme=radical&locale=en)](https://github.com/luizamarlene/github-readme-stats)
